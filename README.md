@@ -1,4 +1,4 @@
-# TopicsInNetworkManagement
+# Advanced Topics in Network Management
 Advanced topics in network management
   
 This repo doesn't contain code, it has reports, presentations and analysis regarding network management topics.  
